@@ -18,13 +18,17 @@ A simple Next.js + Plate.js demo that highlights the keywords **“happy”** an
     git clone https://github.com/your-username/your-repo.git
    
 2. **Change into the project directory**
+    ```bash
     cd your-repo
 
 3. **Install dependencies**
+    ```bash
     npm install
 
 4. **Run the development server**
+    ```bash
     npm run dev
 
 5. **Open your browser**
+    ```bash
     Visit http://localhost:3000 to see the editor.
