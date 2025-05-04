@@ -1,15 +1,7 @@
-# Emotion Highlighting Editor
+# Civic Assignemt Two
 
 A simple Next.js + Plate.js demo that highlights the keywords **“happy”** and **“sad”** as you type, and shows a hovercard with an uplifting message.
 
----
-
-## Prerequisites
-
-- **Node.js** v14 or newer  
-- **npm** (comes with Node.js)  
-
----
 
 ## Getting Started
 
